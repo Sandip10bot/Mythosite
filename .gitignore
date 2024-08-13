@@ -1,0 +1,15 @@
+# Node modules (if using Node.js)
+node_modules/
+
+# Build output (if applicable)
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.sublime-workspace
+*.sublime-project
